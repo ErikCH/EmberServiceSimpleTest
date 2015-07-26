@@ -1,7 +1,6 @@
 # Service-test
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is a Ember Services Tutorial on [www.programwitherik.com](http://www.programwitherik.com/ember-services-tutorial). This program has a very simple Ember service. That service returns a string and is displayed in the application template after a button is pressed. 
 
 ## Prerequisites
 
